@@ -35,4 +35,5 @@ int main()
         default:
         printf("Invalid option");
     }
+    return 0;
 }
