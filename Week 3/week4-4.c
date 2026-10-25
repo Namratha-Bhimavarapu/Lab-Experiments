@@ -8,4 +8,4 @@ int main()
     printf("\n distance travelled=%.2f", distance);
     return 0;
 }
-
+ 
