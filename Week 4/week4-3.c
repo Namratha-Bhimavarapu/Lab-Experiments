@@ -7,6 +7,6 @@ int main()
     scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
     total=a+b+c+d+e;
     printf("\n the total marks=%d",total);
-    avg=total/5;
+    avg=total/5.0;
     printf("\n the average=%.2f", avg);
 }
